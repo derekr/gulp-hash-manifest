@@ -1,8 +1,5 @@
 var through = require('through2');
-var gutil = require('gutil');
 var crypto = require('crypto');
-var path = require('path');
-var Stream = require('stream');
 
 function format (_path, hash) {
     return _path + ' ' + hash.digest('hex');
