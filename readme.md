@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/derekr/gulp-hash-manifest.svg)](https://travis-ci.org/derekr/gulp-hash-manifest)
+
 # gulp-hash-manifest
 #### Creates a manifest of file paths and their hash.
 
