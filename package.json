@@ -1,0 +1,35 @@
+{
+  "name": "gulp-hash-manifest",
+  "version": "0.0.0",
+  "description": "Creates a manifest of file paths and their hash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/derekr/gulp-hash-manifest"
+  },
+  "keywords": [
+    "gulpplugin",
+    "hash",
+    "manifest",
+    "hash-manifest",
+    "build",
+    "revisioning"
+  ],
+  "author": "Derek Reynolds <drk@diy.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekr/gulp-hash-manifest/issues"
+  },
+  "homepage": "https://github.com/derekr/gulp-hash-manifest",
+  "dependencies": {
+    "through2": "~0.4.1"
+  },
+  "devDependencies": {
+    "tap": "~0.4.8",
+    "vinyl": "~0.2.3",
+    "event-stream": "~3.1.2"
+  }
+}
