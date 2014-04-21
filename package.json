@@ -1,6 +1,6 @@
 {
   "name": "gulp-hash-manifest",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Creates a manifest of file paths and their hash.",
   "main": "index.js",
   "scripts": {
